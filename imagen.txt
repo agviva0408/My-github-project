@@ -1,0 +1,29 @@
+<html>
+</head>
+</head>
+<body>
+<hl>Secciones</hl>
+<hl>Inicio</hl>
+   <ul>
+        <li><a href="file:///C:/Users/pc/Documents/pagina/Jaymaratarea222.html">Inicio</a></li>
+      <li><a href="">Imágenes</a></li>
+      <li><a href="file:///C:/Users/pc/Documents/pagina/conocenos.html">Conócenos</a></li> 
+      <li><a href="file:///C:/Users/pc/Documents/pagina/contacto.html">Contacto</a></li>
+<p> Mi familia los amo con locura<p/>
+<image src= "padres1.jpg"/>
+  <center>
+<image src= "tia1.jpg"/>
+  <center>
+<image src= "Mi modelo1.jpg"/>
+<body bgcolor="white"> 
+
+
+
+
+
+
+
+</html>
+</body>
+
+
