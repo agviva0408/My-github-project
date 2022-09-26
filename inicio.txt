@@ -1,0 +1,28 @@
+<html>
+</head>
+</head>
+<body>
+<hl>Secciones</hl>
+<hl>Inicio</hl>
+   <ul>
+        <li><a href="">Inicio</a></li>
+      <li><a href="file:///C:/Users/pc/Documents/Jaymara%20proyecto%20lugar%20famoso/La%20isla%20del%20maiz.html">Imágenes</a></li>
+      <li><a href="">Curiosidades</a></li> 
+      <li><a href="">Acerca de</a></li>
+
+ <p>
+<p
+    align: alineación del párrafo (center | left | right | justify).
+</p>
+</p>
+ <p>
+<p style="font-size: x-large; background-color: crimson; color: #f1f1f1; font-weight: bold">
+      A continuación puedes observar lindas fotos:
+</p>
+
+<body bgcolor="pink"> 
+
+
+</html>
+</body>
+
