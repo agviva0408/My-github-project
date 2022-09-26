@@ -1,0 +1,58 @@
+header{
+    border-radius: 10px;
+    background: #303050;
+    color: #FFFC33;
+    text-align: center;
+}
+
+nav{
+    border-radius: 6px;
+    min-height: 45px;
+    background: #777799;
+    margin-bottom: 10px;
+}
+
+nav ul{
+    padding-top: 10px;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+section{
+    padding: 5px;
+    border-radius: 10px;
+    background: #7a7a7a;
+}
+
+article{
+    background: #a6a6a6;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+aside{
+    background: #92a0c4;
+    border-radius: 10px;
+}
+
+footer{
+    background: #276086;
+    color: #acd6f0;
+
+{
+    background: #a6a6a6;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
